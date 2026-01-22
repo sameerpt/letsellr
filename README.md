@@ -12,7 +12,7 @@ The platform is built and delivered **end-to-end**, covering **UI/UX, backend AP
 - **Frontend Repository**  
   https://github.com/devxtra-community/letsellr-fontend-ts
 
-- **Backend Repository**  
+- **Backend Repository**   
   https://github.com/devxtra-community/letsellr-backend.git
 
 ---
