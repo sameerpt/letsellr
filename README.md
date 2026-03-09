@@ -33,7 +33,7 @@ The platform is built and delivered **end-to-end**, covering **UI/UX, backend AP
 ### 🤝 Client–Contractor Communication
 - Clear workflows between owners, clients, and contractors
 - Better coordination and operational transparency
-- Reduced manual follow-ups
+- Reduced manual follow-up
 
 ### 🔐 Secure & Scalable Architecture
 - RESTful APIs with Express.js
