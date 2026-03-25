@@ -36,7 +36,7 @@ The platform is built and delivered **end-to-end**, covering **UI/UX, backend AP
 - Reduced manual follow-ups
 
 ### 🔐 Secure & Scalable Architecture
-- RESTful APIs with Express.js
+- RESTful APIs with Express.js 
 - Separation of frontend and backend responsibilities
 - Scalable upload and storage pipeline
 
